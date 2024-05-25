@@ -9,3 +9,6 @@ function sayname (){
 function isabove(){
   return age>=18;
 }
+function newfn(){
+  console.log("Hey !!");
+}
