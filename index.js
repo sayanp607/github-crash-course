@@ -5,3 +5,7 @@ const sex ='male';
 function sayname (){
    console.log('my name is:' + name);
 }
+
+function isabove(){
+  return age>=18;
+}
