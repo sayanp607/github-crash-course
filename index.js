@@ -19,3 +19,6 @@ function division(a,b){
 function multiply(a,b){
   return a*b;
 }
+function percent(a,b){
+  return a%b;
+}
