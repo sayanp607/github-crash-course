@@ -21,4 +21,5 @@ function multiply(a,b){
 }
 function percent(a,b){
   return a%b;
+  console.log("hello 1");
 }
