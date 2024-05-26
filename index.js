@@ -1,4 +1,4 @@
-const age=240;
+const age=234;
 const name = 'Sayan Paul new';
 const sex ='male';
 
