@@ -13,3 +13,6 @@ function isabove(){
 function subtract(a,b){
   return b-a;
 }
+function division(a,b){
+  return b/a;
+}
