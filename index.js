@@ -9,3 +9,7 @@ function sayname (){
 function isabove(){
   return age>=18;
 }
+
+function subtract(a,b){
+  return b-a;
+}
