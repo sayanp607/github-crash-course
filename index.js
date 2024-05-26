@@ -19,7 +19,8 @@ function division(a,b){
 function multiply(a,b){
   return a*b;
 }
-function percent(a,b){
-  return a%b;
+function percent(){
   console.log("hello 1");
+  console.log("hello 2");
+  console.log("hello 3");
 }
