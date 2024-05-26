@@ -1,5 +1,5 @@
 const age=24;
-const name = 'Sayan Paul';
+const name = 'Sayan Paul new';
 const sex ='male';
 
 function sayname (){
